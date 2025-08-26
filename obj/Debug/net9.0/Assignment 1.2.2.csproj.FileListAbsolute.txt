@@ -12,3 +12,4 @@ C:\Users\chibl\OneDrive\Documents\Learning Coding\MSSA\Assignments\Assignment 1.
 C:\Users\chibl\OneDrive\Documents\Learning Coding\MSSA\Assignments\Assignment 1.2.2\obj\Debug\net9.0\Assignment 1.2.2.pdb
 C:\Users\chibl\OneDrive\Documents\Learning Coding\MSSA\Assignments\Assignment 1.2.2\obj\Debug\net9.0\Assignment 1.2.2.genruntimeconfig.cache
 C:\Users\chibl\OneDrive\Documents\Learning Coding\MSSA\Assignments\Assignment 1.2.2\obj\Debug\net9.0\ref\Assignment 1.2.2.dll
+C:\Users\chibl\OneDrive\Documents\Learning Coding\MSSA\Assignments\Assignment 1.2.2\obj\Debug\net9.0\Assignment 1.2.2.sourcelink.json
